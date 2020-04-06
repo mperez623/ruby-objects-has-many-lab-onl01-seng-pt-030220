@@ -10,7 +10,7 @@ def initialize(title)
 end
 
 def self.all
-  
+  @@all
 end
   
   
